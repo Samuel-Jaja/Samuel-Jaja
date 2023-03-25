@@ -4,6 +4,7 @@
 * ⏲️ You could also reach me via my mail samuel.jaja21@gmail.com 
 * 👯 I’m looking to collaborate on open-source .NET(ASP.NETCore WebAPI, WPF), Vue3/Nuxt.js, TypeScript Projects.
 * 🔭 I’m currently working on an MVP Self-Service Application for my organization.
+* 🌱 I’m currently learning DevOps Engineering and Networking Basics.
 
 <!--
 **Samuel-Jaja/Samuel-Jaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
